@@ -4,6 +4,7 @@ DerivedDataCache/
 Intermediate/
 Saved/
 Content/
+Build/
 .vs/
 *.VC.db
 *.suo
